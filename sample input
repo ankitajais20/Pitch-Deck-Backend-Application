@@ -1,0 +1,30 @@
+{
+            "entrepreneur": "Rohan",
+            "pitchTitle": "restaurant pop-up",
+            "pitchIdea" : "Opening a food truck or restaurant pop-up with a knack for cooking.",
+            "askAmount" : 1000000000,
+            "equity": 25.3
+        }
+        
+        {
+            "entrepreneur": "Daniel",
+            "pitchTitle": "vintage clothing online",
+            "pitchIdea" : "selling thrifted, vintage or upcycled clothing on social media, an ecommerce platform or an app",
+            "askAmount" : 2500000000,
+            "equity": 25.3
+        }
+        
+        {
+            "entrepreneur": "Roy",
+            "pitchTitle": "zero-waste products",
+            "pitchIdea" : "Selling sustainable products with zero-waste packaging could appeal to a growing number of sustainability-focused consumers",
+            "askAmount" : 1000000000,
+            "equity": 25.3
+        }
+        
+        {
+            "investor": "Anupam Mittal",
+            "amount" : 1000000000,
+            "equity": 25.3,
+            "comment":"A new concept in the ed-tech market. I can relate with the importance of the Learn By Doing philosophy. Keep up the Good Work! Definitely interested to work with you to scale the vision of the company!"
+        }
